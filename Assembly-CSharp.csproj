@@ -53,6 +53,8 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\LevelLoader.cs" />
+     <Compile Include="Assets\Script\Attacker.cs" />
+     <Compile Include="Assets\Script\AttackerSpawner.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/2020.3.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
